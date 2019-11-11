@@ -1,7 +1,6 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-remote_theme : poole/lanyon
 permalink:           pretty
 relative_permalinks: true
 
