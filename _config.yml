@@ -1,0 +1,24 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+remote_theme : poole/lanyon
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               longcat
+tagline:             ''
+description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 http://longcat.github.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              HARIBO
+  url:               https://twitter.com/2bornotsb
+  email:             cehicle@naver.com
+
+# Custom vars
+version:             1.0.0
+
